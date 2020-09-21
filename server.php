@@ -8,6 +8,7 @@ function hola (){
 function adios()
 {
 	echo "Bye bye!";
+	echo "Bye bye!";
 }
 
 ?>
