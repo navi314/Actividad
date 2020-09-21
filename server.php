@@ -2,6 +2,7 @@
 
 function hola (){
     $olakase = 1;
+    echo $olakase;
 }
 
 
