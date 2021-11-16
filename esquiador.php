@@ -8,7 +8,7 @@ function curar (){
 
 function leon()
 {
-	echo "Bye bye!";
+	//echo "Bye bye!";
 	echo "Bye bye!";
 }
 
