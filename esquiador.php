@@ -12,4 +12,5 @@ function leon()
 	echo "Bye bye!";
 }
 
+function cambio(){}
 ?>
