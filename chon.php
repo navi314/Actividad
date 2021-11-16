@@ -8,4 +8,5 @@ function loop_()
 }
 
 loop();
+include("test.php");
 ?>
