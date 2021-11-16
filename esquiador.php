@@ -6,11 +6,13 @@ function curar (){
 }
 
 
-// function leon()
-// {
-// 	echo "Bye bye!";
-// 	echo "Bye bye!";
-// }
+
+function leon()
+{
+	//echo "Bye bye!";
+	echo "Bye bye!";
+}
+
 
 function cambio(){}
 ?>
